@@ -33,7 +33,7 @@ Baixe a versão mais recente diretamente na nossa página de lançamentos:
 | **Windows** (10/11) | Instalador Oficial (.exe) | [Download Windows](https://github.com/NBX-Projects/Micco/releases/latest) |
 | **Windows** (Portátil) | Arquivo Compactado (.zip) | [Download ZIP](https://github.com/NBX-Projects/Micco/releases/latest) |
 | **Linux** (Debian/Ubuntu) | Pacote (.deb) | [Download Linux](https://github.com/NBX-Projects/Micco/releases/latest) |
-| **Android** | Pacote (.apk) | [Download Android](https://github.com/NBX-Projects/Micco/releases/latest) |
+| **Android** | Google Play Store | [Google Play](https://play.google.com/store/apps/details?id=com.nbxprojects.micco) |
 | **Web** | Navegador moderno | [Abrir no Navegador](https://www.micco.app.br/app/) |
 
 > Todos os binários acompanham assinaturas criptográficas em `SHA256SUMS.txt` para verificação de integridade antes da instalação.
